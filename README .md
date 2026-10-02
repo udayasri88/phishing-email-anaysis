@@ -66,7 +66,7 @@ Splunk (on Kali)
 phishing-detection-pipeline/
 ├── README.md
 ├── scripts/
-│   └── phish_parser.py          # Parses .eml files, extracts & enriches IOCs
+│   └── script.py          # Parses .eml files, extracts & enriches IOCs
 ├── samples/
 │   └── sample_phishing.eml      # Sanitized lab-generated phishing sample
 ├── reports/
