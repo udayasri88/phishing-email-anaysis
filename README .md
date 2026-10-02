@@ -74,10 +74,7 @@ phishing-detection-pipeline/
 ├── splunk/
 │   ├── spl_queries.txt          # Detection search queries used
 │   └── dashboard_screenshots/   # Dashboard panel screenshots
-├── analysis/
-│   └── sample_analysis_writeup.md   # Manual header/IOC analysis walkthrough
-└── playbook/
-    └── incident_response_playbook.md
+
 ```
 
 ---
